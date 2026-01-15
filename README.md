@@ -7,7 +7,7 @@ Over a decaded of building, debugging, and fixing software and I'm still here, d
 - 🤝 Available for work on small, focused teams with brilliant, kind people who think long term, while acting swiftly. 
 
 - 👤 ENS: aaron.celo.eth
-- 📥 LinkedIn: https://www.linkedin.com/in/aaronderuvo/
+- 📥 LinkedIn: [in/aaronderuvo](https://www.linkedin.com/in/aaronderuvo)
 
 <!--
 **aaronmgdr/aaronmgdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
